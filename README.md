@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi, my name's Olga👋
+## I'm Frontend developer
 
 <!--
 **OlgaMakukha/OlgaMakukha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
