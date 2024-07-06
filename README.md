@@ -2,7 +2,7 @@
 ### I'm Frontend developer
 ### My work
 - https://olgamakukha.github.io/landing_Britlex/
--  
+- https://olgamakukha.github.io/landing_Konstruct/
 
 
 <!--
