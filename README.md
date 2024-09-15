@@ -4,6 +4,7 @@
 
 - https://olgamakukha.github.io/evacuator/
 - https://olgamakukha.github.io/Landing_Candles/
+- https://github.com/OlgaMakukha/taskManager
 - https://olgamakukha.github.io/landing_Britlex/
 - https://olgamakukha.github.io/landing_Konstruct/
 
