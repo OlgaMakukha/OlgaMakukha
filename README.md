@@ -6,6 +6,7 @@
 - https://olgamakukha.github.io/Landing_Candles/
 - https://github.com/OlgaMakukha/taskManager
 - https://olgamakukha.github.io/landing_Britlex/
+- https://github.com/OlgaMakukha/slide_js
 - https://olgamakukha.github.io/landing_Konstruct/
 
 
