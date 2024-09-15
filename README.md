@@ -7,7 +7,7 @@
 - https://olgamakukha.github.io/taskManager/
 - https://olgamakukha.github.io/slider/
 - https://olgamakukha.github.io/landing_Britlex/
-- https://github.com/OlgaMakukha/slide_js/
+- https://olgamakukha.github.io/slide_js/
 - https://olgamakukha.github.io/landing_Konstruct/
 
 
