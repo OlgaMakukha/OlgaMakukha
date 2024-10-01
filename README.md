@@ -3,6 +3,7 @@
 ### My work
 
 - https://olgamakukha.github.io/evacuator/
+- https://olgamakukha.github.io/landing_chess/
 - https://olgamakukha.github.io/Landing_Candles/
 - https://olgamakukha.github.io/taskManager/
 - https://olgamakukha.github.io/slider/
