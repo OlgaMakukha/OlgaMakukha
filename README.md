@@ -2,6 +2,7 @@
 ### Я фронтенд разработчик
 ## Мои работы
 
+- https://olgamakukha.github.io/Quiz-js/
 - https://olgamakukha.github.io/evacuator/
 - https://olgamakukha.github.io/landing_chess/
 - https://olgamakukha.github.io/Landing_Candles/
