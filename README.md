@@ -2,10 +2,11 @@
 ### Я фронтенд разработчик
 ## Мои работы
 
-- https://olgamakukha.github.io/Quiz-js/
+- https://olgamakukha.github.io/Game-rock_paper_scissors/
+- https://olgamakukha.github.io/Landing_Candles/
 - https://olgamakukha.github.io/evacuator/
 - https://olgamakukha.github.io/landing_chess/
-- https://olgamakukha.github.io/Landing_Candles/
+- https://olgamakukha.github.io/Quiz-js/
 - https://olgamakukha.github.io/taskManager/
 - https://olgamakukha.github.io/slider/
 - https://olgamakukha.github.io/landing_Britlex/
