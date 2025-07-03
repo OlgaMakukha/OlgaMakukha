@@ -1,6 +1,7 @@
 ## Привет, я Оля 👋
 ### Я фронтенд разработчик
 ## Мои работы
+- https://olgamakukha.github.io/ballons-landing/
 - https://olgamakukha.github.io/Portable-Space-Land/
 - https://olgamakukha.github.io/Game-rock_paper_scissors/
 - https://olgamakukha.github.io/Landing_Candles/
@@ -8,9 +9,7 @@
 - https://olgamakukha.github.io/landing_chess/
 - https://olgamakukha.github.io/taskManager/
 - https://olgamakukha.github.io/slider/
-- https://olgamakukha.github.io/landing_Britlex/
 - https://olgamakukha.github.io/slide_js/
-- https://olgamakukha.github.io/landing_Konstruct/
 
 ## Мои умения
 - Разработка кросс-браузерных и мобильных интерфейсов на основе дизайн-макетов.
