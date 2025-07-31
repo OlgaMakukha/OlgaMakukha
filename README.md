@@ -1,6 +1,7 @@
 ## Привет, я Оля 👋
 ### Я фронтенд разработчик
 ## Мои работы
+- https://olgamakukha.github.io/React_tasks_list/
 - https://olgamakukha.github.io/react_components_btns/
 - https://olgamakukha.github.io/ballons-landing/
 - https://olgamakukha.github.io/Game-landing/
